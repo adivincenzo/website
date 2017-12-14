@@ -1,9 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 body {
-      position: relative; 
+      position: relative;
+      font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+      font-weight: 100;
   }
-  #home {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
-  #about {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
-  #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
-  #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
-  #section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+.nav, h1{
+	letter-spacing: 3px;
+	font-variant: small-caps;
+}
+#home {padding-top:50px;height:750px;width:1300px;color: #fff; background-color: #1E88E5;}
+#about {padding-top:50px;height:750px;width:1300px;color: #fff; background-color: #673ab7;}
+#section3 {padding-top:50px;height:750px;width:1300px;color: #fff; background-color: #ff9800;}
+#section41 {padding-top:50px;height:750px;width:1300px;color: #fff; background-color: #00bcd4;}
+#section42 {padding-top:50px;height:750px;width:1300px;color: #fff; background-color: #009688;}
