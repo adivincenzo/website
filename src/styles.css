@@ -3,43 +3,59 @@ body {
       position: relative;
       font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
       font-weight: 100;
-  }
+}
+a {
+	color: #fff;
+}
+p {
+	text-align: center;
+}
 .nav, h1 {
 	letter-spacing: 3px;
 	font-variant: small-caps;
 }
 #home {
-	padding-top: 50px;
+	padding-top: 75px;
 	height: 750px;
-	width: 1300px;
+	/*width: 1300px;*/
 	color: #fff;
-	background-color: #1E88E5;
+	/*background-color: #1E88E5;*/
+	background-image: url("/assets/IMG_6777.JPG");
+	background-repeat: no-repeat;
+	background-position: center;
 }
 #about {
 	padding-top: 50px;
 	height: 750px;
-	width: 1300px;
+	/*width: 1300px;*/
 	color: #fff;
 	background-color: #673ab7;
 }
-#section3 {
+#education {
 	padding-top: 50px;
 	height: 750px;
-	width: 1300px;
+	/*width: 1300px;*/
 	color: #fff;
 	background-color: #ff9800;
 }
 #section41 {
 	padding-top: 50px;
 	height: 750px;
-	width: 1300px;
+	/*width: 1300px;*/
 	color: #fff;
 	background-color: #00bcd4;
 }
 #section42 {
 	padding-top: 50px;
 	height: 750px;
-	width: 1300px;
+	/*width: 1300px;*/
 	color: #fff;
 	background-color: #009688;
+}
+#contact {
+	padding-top: 50px;
+	height: 375px;
+	/*width: 1300px;*/
+	color: #fff;
+	background-color: #ba7350;
 }
